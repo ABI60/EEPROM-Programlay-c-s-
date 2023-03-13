@@ -21,6 +21,6 @@ takıp butona basma ile seri olarak programlayabilir.
 
 # Çalışma/Test:
 <p float="left">
-  <img src="./Resimler/Devre Programlama.png" width="200">
+  <img src="./Resimler/Devre Programlama.png" width="300">
   <img src="./Resimler/Test Devresi.png" width="400"> 
 </p>
